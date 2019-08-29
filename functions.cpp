@@ -9,7 +9,7 @@
 #include <stdio.h>
 #include "classes.cpp"
 
-/*void massage(Graph *graph, int index){
+void massage(Graph *graph, int index){
     CurrencyNode * source = (*(*graph).edges)[index].source;
     CurrencyNode * destination = (*(*graph).edges)[index].destination;
     int weight = (*(*graph).edges)[index].weight;
@@ -25,4 +25,4 @@ bool testForNegativeCycle(Graph *graph, int index){
         return true;
     else
         return false;
-}*/
+}
