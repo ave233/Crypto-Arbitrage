@@ -15,7 +15,7 @@
 using namespace std;
 
 /*
-TODO:
+TODO if you want to run locally:
  - implement input data parsing
  - initialize all min distances to infinite
  - make sure source distance = 0
@@ -25,6 +25,7 @@ TODO:
 */
 
 int main(int argc, const char * argv[]) {
+    //Implement pulling data from what ever source you want, transform data into a graph class given in Model.cpp, run BellmanFord
     return 0;
 }
 
