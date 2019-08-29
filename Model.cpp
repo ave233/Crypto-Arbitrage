@@ -1,5 +1,5 @@
 //
-//  classes.cpp
+//  Model.cpp
 //  Crypto
 //
 //  Created by Avery Rubin on 7/31/17.
